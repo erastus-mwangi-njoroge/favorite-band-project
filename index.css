@@ -8,3 +8,10 @@
     border: 5px inset grey;
     color: brown;
   }
+  .bibliography
+  {
+      background-clip: padding-box;
+      background-size: contain;
+      background-color: bisque;
+  }
+
