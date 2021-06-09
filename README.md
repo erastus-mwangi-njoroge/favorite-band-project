@@ -13,7 +13,7 @@ This Website was designed for the browsers of the personal computers (PCs). It m
 ## Technologies Used
 This website was majorly made using HTML language. The code was then enhanced using CSS to give a fine touch of the project. 
 ## Support and contact details
-{If there is any information to be clarified concerning this work, do not hesitate to reach the indomitable-core developers on eramwangiz@gmail.com.
+If there is any information to be clarified concerning this work, do not hesitate to reach the indomitable-core developers on eramwangiz@gmail.com.
 ### License
 Copyright (c) 2021 **MIT**
  
